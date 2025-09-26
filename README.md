@@ -5,7 +5,7 @@ HOW TO USE :
 you must configure a .ipi file for the instructions :
 It must contain the size of the image as one integer on the first line of the file (the image must have the same height and width as of now)
 The rest of the file will contain the instructions as a single string of characters. The effect of every character is listed below.
-Once your .ipi file is configured, you can also pick between the sample ones, you just execute the program using a terminal.
+Once your .ipi file is configured, you can also pick between the sample ones, co,pile the progrq, using your favotite c compiler and just execute the program using a terminal.
 
 This graphic language uses buckets to paint opacity and color, in which you can add any number of opacity values and colors which are averaged when you want to draw.
 You have two options to draw, draw a line between a marked position and the cursor position or fill an area, the fill tool works as many fill tools, by filling an area of adjacents pixels of the same color.
